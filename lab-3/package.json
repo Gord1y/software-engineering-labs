@@ -1,0 +1,21 @@
+{
+  "name": "design-patterns-tasks",
+  "version": "1.0.0",
+  "description": "Implementing design patterns using plain Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "task-1": "nodemon task1/main.js",
+    "task-2": "nodemon task2/main.js",
+    "task-3": "nodemon task3/main.js",
+    "task-4": "nodemon task4/main.js",
+    "task-5": "nodemon task5/main.js",
+    "task-6": "nodemon task6/main.js"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
