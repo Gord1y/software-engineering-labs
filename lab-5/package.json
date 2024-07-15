@@ -1,0 +1,22 @@
+{
+  "name": "dream-html",
+  "version": "1.0.0",
+  "description": "Enhanced custom HTML framework using various design patterns",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test-template-method": "nodemon test/testTemplateMethod.js",
+    "test-iterator": "nodemon test/testIterator.js",
+    "test-command": "nodemon test/testCommand.js",
+    "test-state": "nodemon test/testState.js",
+    "test-visitor": "nodemon test/testVisitor.js"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
