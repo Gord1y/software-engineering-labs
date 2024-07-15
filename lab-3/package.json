@@ -12,7 +12,7 @@
     "task-5": "nodemon task5/main.js",
     "task-6": "nodemon task6/main.js"
   },
-  "author": "Your Name",
+  "author": "Danylo Hordiienko",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {

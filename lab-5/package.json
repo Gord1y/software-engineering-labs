@@ -11,7 +11,7 @@
     "test-state": "nodemon test/testState.js",
     "test-visitor": "nodemon test/testVisitor.js"
   },
-  "author": "Your Name",
+  "author": "Danylo Hordiienko",
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0"

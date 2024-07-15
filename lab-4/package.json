@@ -11,7 +11,7 @@
     "task-4": "nodemon tasks/task4.js",
     "task-5": "nodemon tasks/task5.js"
   },
-  "author": "Your Name",
+  "author": "Danylo Hordiienko",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
